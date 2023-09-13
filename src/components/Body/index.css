@@ -1,0 +1,80 @@
+/* Write your CSS here */
+.body-container {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+}
+
+.left-container {
+  background-color: #e2e8f0;
+  height: 350px;
+  width: 300px;
+}
+
+.left-heading {
+  font-family: 'roboto';
+  font-size: 16px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.list-container {
+  list-style-type: none;
+  font-size: 20px;
+  font-family: 'roboto';
+}
+
+.item {
+  margin: 10px;
+}
+
+.content-center-container {
+  background-color: #f1f5f9;
+  background-size: cover;
+  margin-left: 10px;
+}
+
+.right-container {
+  background-color: #e2e8f0;
+  height: 350px;
+  width: 270px;
+  margin-left: 10px;
+}
+
+.content-heading {
+  font-family: 'roboto';
+  margin: 12px;
+  font-size: 20px;
+  padding: 10px;
+}
+
+.para-container {
+  font-family: 'roboto';
+  font-size: 22px;
+  margin: 10px;
+  padding: 10px;
+  overflow: auto;
+}
+
+.right-heading {
+  font-family: 'roboto';
+  font-size: 16px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.ad-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin: 10px;
+}
+
+.ad-para-container {
+  border: solid 2px;
+  border-color: #475569;
+  padding: 30px;
+  margin: 15px;
+}

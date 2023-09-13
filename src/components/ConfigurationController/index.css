@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #475569;
+  background-size: cover;
+  height: auto;
+}
+
+.content-container {
+  margin-left: 40px;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.layout-heading {
+  font-family: 'roboto';
+  font-size: 35px;
+  color: #ffffff;
+}
+
+.content-container {
+  font-family: 'roboto';
+  color: #ffffff;
+}
